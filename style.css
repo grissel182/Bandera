@@ -5,15 +5,17 @@
 	background-color: red;
 }
 div{
-	height: 100px;
-	width: 400px;
-	font-size: 40px;
+	height: 50%;
+	width: 20%;
+	font-size: 150%;
+	margin: 1%;
+	display: inline;
 }
 .pdl5{
-	padding-left: 5px;
+	padding-left: 2%;
 }
 .pdt5{
-	padding-top: 5px;
+	padding-top: 2%;
 }
 .may{
 	text-transform: uppercase;
